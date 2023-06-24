@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CookSmart></string>
+
+    <string name="alreadyAccountText">"Already have an account <u>Login</u>"</string>
+
+    <string-array name="recipies">
+        <item>Biryani</item>
+        <item>Pulao</item>
+        <item>Khichri</item>
+        <item>Chinese Rice</item>
+        <item>White Rice</item>
+    </string-array>
+
+</resources>

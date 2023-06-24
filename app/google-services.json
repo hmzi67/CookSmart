@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408611558345",
+    "project_id": "cook-smart-5ec0b",
+    "storage_bucket": "cook-smart-5ec0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408611558345:android:61f2d8077119175a3e0e18",
+        "android_client_info": {
+          "package_name": "com.example.cooksmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408611558345-72e1o5nvdhcmk9fg0ua206d6j9i99qpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VcGDLg5i5jE-yns9IQ2ZziYjZphEbVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408611558345-72e1o5nvdhcmk9fg0ua206d6j9i99qpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
